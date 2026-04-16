@@ -1,4 +1,4 @@
-![image alt](https://github.com/JnGarciaGR/JnGarciaGR/blob/e87c9de48372df3d23f4af4407e7fcbac9b2960f/Banner_Jaime_1.png)]
+![image alt](https://github.com/JnGarciaGR/JnGarciaGR/blob/835d61de59238bda44434ce9b715b23aad9f08d6/banner-jaime-3.png)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 

@@ -46,9 +46,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="www.linkedin.com/in/jaime-nicolas-garcía-regalado-77b654234"><img src="https://img.shields.io/badge/Jaime_Garcia-blue?style=for-the-badge&logo=linkedin"/></a>
-
-
+<a href="https://www.linkedin.com/in/jaime-nicolas-garc%C3%ADa-regalado-77b654234/"><img src="https://img.shields.io/badge/Jaime_Garcia-blue?style=for-the-badge&logo=linkedin"/></a>
 </p>
 
 -----

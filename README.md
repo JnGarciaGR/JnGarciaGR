@@ -7,7 +7,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Mechatronics Engineering at ESPOL.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Agentic AI, and AI Chatbots.\
-✍️ &nbsp;In my free time, I enjoy building my own Tamagotchi-style device, combining electronics and PCB design, and I also like taking courses related to AI.\
+✍️ &nbsp;In my free time, I enjoy building my own Tamagotchi-style device, combining electronics and PCB design, and I also like taking           courses related to AI.\
 ✉️ &nbsp;You can shoot me an email at nicolasgarcia43@hotmail.com! I'll try to respond as soon as I can.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>

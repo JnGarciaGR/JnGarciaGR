@@ -46,6 +46,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
+
 ![Static Badge](https://img.shields.io/badge/Jaime_Garcia-blue?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjaime-nicolas-garc%25C3%25ADa-regalado-77b654234%2F)
 
 
